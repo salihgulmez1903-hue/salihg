@@ -1,0 +1,61 @@
+127.0.0.1 localhost
+127.0.0.1 127.0.0.1
+::1 localhost
+::1 ip6-localhost
+
+0.0.0.0 vmp.qq.com
+0.0.0.0 test.vmp.qq.com
+0.0.0.0 dlied1.qq.com
+0.0.0.0 omgmta.qq.com
+0.0.0.0 cs.mbgame.gamesafe.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 tpns.qq.com
+0.0.0.0 mta.qq.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 pingmid.qq.com
+0.0.0.0 log.tbs.qq.com
+0.0.0.0 mqqad.html5.qq.com
+0.0.0.0 dldir1.qq.com
+0.0.0.0 mdc.html5.qq.com
+0.0.0.0 clientrz2.itop.qq.com
+0.0.0.0 szmg.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 bugly.qq.com
+0.0.0.0 hkconfig.gcloud.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
+
+# Helpshift (Support/Log Raporlama - Cheat Tespit Logları)
+0.0.0.0 pubgmobile.helpshift.com
+0.0.0.0 pubgmvn.helpshift.com
+0.0.0.0 pubg.krmobile.helpshift.com
+0.0.0.0 tencentgames.helpshift.com
+0.0.0.0 napubgm.helpshift.com
+0.0.0.0 mx0.pubg.krmobile.helpshift.com
+0.0.0.0 fileserver.pubg.krmobile.helpshift.com
+
+
+0.0.0.0 receiver.sg.tdm.qq.com
+0.0.0.0 krping.igamecj.com
+0.0.0.0 meping.igamecj.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 filecdn.igamecj.com
+
+
+0.0.0.0 pandoracdn.itop.qq.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 pingjs.qq.com
+0.0.0.0 dr.game.qq.com
+0.0.0.0 logs.game.qq.com
+
+
+0.0.0.0 www.monster-cheats.com
+0.0.0.0 monster-cheats.com
+0.0.0.0 www.unknowncheats.me
+
+0.0.0.0 napubgm.broker.amsoveasea.com
+0.0.0.0 napubgm.broker.tplay.qq.com
+0.0.0.0 nawzryhwatm.broker.amsoveasea.com
+0.0.0.0 *.broker.amsoveasea.com
+0.0.0.0 api.pubgmobile.com
+0.0.0.0 eu.pubgmobile.com
+0.0.0.0 *.tencent.com 
